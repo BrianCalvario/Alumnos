@@ -1,9 +1,9 @@
-import { Alumnos } from "../models/jugadores.models.js";
+import { modelo } from "../Models/AlumnosModels"
 
-modelo1.createz({
-    name:"el chino",
+modelo.createz({
+    name:"Mario",
     apetat:"Huerta",
-    Numero: 10
+    Numerodelista: 10
 })
 
 export const testc =() =>{

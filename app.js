@@ -2,8 +2,8 @@ import mongoose from "mongoose";
 import cors from "cors";
 import express from "express";
 import dotenv from "dotenv";
-import {test} from "./backend/controllers/jugadorescontrolles.js";
-importScripts
+import {test} from "./backend/Controllers/Alumnos.js";
+import {  } from "module";
 
 dotenv.config()
 mongoose.connect(process.env.urldb)
